@@ -6,4 +6,4 @@ so the tutorial help me to understand how to:
   5. merge a created branch of master branch with the master branch
   6. done.
   
-  ..tbh still doesn't understand why i need to learn this shit, sorry.
+...tbh still doesn't understand why i need to learn this shit. *KMS
